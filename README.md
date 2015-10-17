@@ -2,4 +2,4 @@
 
 A jekyll theme for visual artists
 
-Live-Demo: (narkotyk.net)[http://narkotyk.net/]
+Live-Demo: http://narkotyk.net/
