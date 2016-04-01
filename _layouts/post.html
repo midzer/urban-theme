@@ -4,13 +4,13 @@ layout: default
 <div class="post">
   <div class="post-nav">
     {% if page.next.url %}
-      <a href="{{page.next.url}}">&laquo; Prev</a>
+      <a href="{{ page.next.url }}">&laquo; Prev</a>
     {% endif %}
     {% if page.previous.url and page.next.url %}
       |
     {% endif %}
     {% if page.previous.url %}
-      <a href="{{page.previous.url}}">Next &raquo;</a>
+      <a href="{{ page.previous.url }}">Next &raquo;</a>
     {% endif %}
   </div>
 
