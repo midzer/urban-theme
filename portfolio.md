@@ -4,6 +4,6 @@ title: portfolio
 permalink: /portfolio/
 ---
 <div class="home">
- {% include preview.html %}
+ {% include blogpreview.html %}
 
 </div>
