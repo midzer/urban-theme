@@ -1,6 +1,6 @@
 ---
 layout: page
-title: qianze zhang | mailing list
+title: qianze zhang | subscribe
 permalink: /subscribe/
 ---
 
