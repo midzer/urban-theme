@@ -1,6 +1,6 @@
 ---
 layout: page
-title: contact
+title: qianze zhang | contact
 permalink: /contact/
 ---
 
