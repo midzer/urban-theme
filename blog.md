@@ -4,5 +4,6 @@ title: qianze zhang | blog
 permalink: /blog/
 ---
 <div class = "home">
- {% include preview.html %}
+ {% include blogpostpreview.html %}
+ 
 </div>
