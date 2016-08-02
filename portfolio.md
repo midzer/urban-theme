@@ -1,6 +1,6 @@
 ---
 layout: page
-title: portfolio
+title: qianze zhang | portfolio
 permalink: /portfolio/
 ---
 <div class="home">
