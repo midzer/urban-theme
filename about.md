@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: qianze zhang | about
 permalink: /about/
 ---
 
