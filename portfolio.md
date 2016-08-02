@@ -3,8 +3,7 @@ layout: page
 title: portfolio
 permalink: /portfolio/
 ---
-
 <div class="home">
--  {% include preview.html %}
--
+ {% include preview.html %}
+
 </div>
