@@ -1,6 +1,6 @@
 ---
 layout: page
-title: blog
+title: qianze zhang | blog
 permalink: /blog/
 ---
 <div class="home">
