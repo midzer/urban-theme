@@ -1,7 +1,7 @@
 ---
 layout: page
-title: portfolio
-permalink: /portfolio/
+title: blog
+permalink: /blog/
 ---
 <div class="home">
  {% include blogpostpreview.html %}
