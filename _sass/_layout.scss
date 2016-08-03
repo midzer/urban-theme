@@ -89,7 +89,7 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .post-list {
@@ -124,7 +124,7 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 18px;
     letter-spacing: -1px;
     line-height: 1;
 
@@ -137,7 +137,7 @@
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
+        font-size: 16px;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -166,7 +166,7 @@
  * Misc
  */
 .preview-panel {
-    padding: 10px;
+    padding: 5px;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
