@@ -1,0 +1,30 @@
+/*!
+ * Milligram-scss v1.3.0
+ * https://milligram.github.io
+ *
+ * Copyright (c) 2017 CJ Patoilo
+ * Licensed under the MIT license
+ */
+
+
+// Utility
+// ––––––––––––––––––––––––––––––––––––––––––––––––––
+
+// Clear a float with .clearfix
+.clearfix {
+
+	&:after {
+		clear: both;
+		content: ' '; // The space content is one way to avoid an Opera bug.
+		display: table;
+	}
+}
+
+// Float either direction
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}

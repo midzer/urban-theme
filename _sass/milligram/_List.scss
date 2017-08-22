@@ -1,0 +1,34 @@
+/*!
+ * Milligram-scss v1.3.0
+ * https://milligram.github.io
+ *
+ * Copyright (c) 2017 CJ Patoilo
+ * Licensed under the MIT license
+ */
+
+
+// List
+// ––––––––––––––––––––––––––––––––––––––––––––––––––
+
+dl,
+ol,
+ul {
+	list-style: none;
+	margin-top: 0;
+	padding-left: 0;
+
+	dl,
+	ol,
+	ul {
+		font-size: 90%;
+		margin: 1.5rem 0 1.5rem 3.0rem;
+	}
+}
+
+ol {
+	list-style: decimal inside;
+}
+
+ul {
+	list-style: circle inside;
+}
