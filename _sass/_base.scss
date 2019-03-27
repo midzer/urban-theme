@@ -4,6 +4,7 @@
 
 html {
     background-color: black;
+    font-family:font-family: 'Alex Brush', cursive;
 }
 
 body, h1, h2, h3, h4, h5, h6,
@@ -19,7 +20,6 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: 300;
@@ -37,6 +37,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
+    font-family: 'Alex Brush', cursive;
     margin-bottom: $spacing-unit / 2;
 }
 
